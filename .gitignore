@@ -1,0 +1,5 @@
+**/data
+**/ffb_proj
+**/old
+**/.ipynb_checkpoints
+*.csv
